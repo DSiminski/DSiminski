@@ -2,7 +2,6 @@
 
 - 📚 I'm studying Software Engineering
 - 🌱 I’m currently learning new programming languages 
-- 🐱‍👤 I'm currently working front-end development
 - 📫 How to reach me: siminskidayane@gmail.com
 
 <div>
